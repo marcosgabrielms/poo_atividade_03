@@ -1,0 +1,12 @@
+# Arquivos gerados pelo TypeScript
+
+*.js.map
+*.d.ts
+*.d.ts.map
+
+# Pasta de dependências do Node (caso você use)
+node_modules/
+
+# Logs e arquivos de sistema
+.DS_Store
+npm-debug.log*
